@@ -1,0 +1,2 @@
+# fuckgo
+utils for golang.
